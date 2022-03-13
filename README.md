@@ -5,4 +5,5 @@ Our client Steve is a recent graduate of a finance program and is looking to us 
 
 ## Analysis
 Using the tools we have built, we have created analyses for two years, 2017 and 2018.  At first glance, we can see 2017 was a much better year for green stocks than 2018 was:
+
 ![This is an image](https://github.com/Brents-Github/stock-analysis/blob/main/Resources/2017%20SS.png)
